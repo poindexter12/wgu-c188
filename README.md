@@ -1,7 +1,7 @@
-# WGU C916
+# WGU C188
 
-Western Governors University - Scripting and Automation - C916
+Western Governors University - Software Engineering - C188
 
 ## INFORMATION
 
-Contains coursework and scripts for compelting this course. All work is my own.
+Contains coursework for WGU C188. All work is my own.
